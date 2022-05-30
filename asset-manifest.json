@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/googlepicker/static/css/main.2efe6b98.css",
+    "main.js": "/googlepicker/static/js/main.cfc52b6c.js",
+    "static/js/787.209190b3.chunk.js": "/googlepicker/static/js/787.209190b3.chunk.js",
+    "index.html": "/googlepicker/index.html",
+    "main.2efe6b98.css.map": "/googlepicker/static/css/main.2efe6b98.css.map",
+    "main.cfc52b6c.js.map": "/googlepicker/static/js/main.cfc52b6c.js.map",
+    "787.209190b3.chunk.js.map": "/googlepicker/static/js/787.209190b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2efe6b98.css",
+    "static/js/main.cfc52b6c.js"
+  ]
+}
